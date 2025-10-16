@@ -1,0 +1,2 @@
+# Designing-of-Enhanced-Version-of-Digital-Energy-Meter
+Designed and fabricated analog voltage and current conditioning circuits in Proteus. Designed and tested custom PCB which includes op-amp ICs for conditioning circuits, voltage regulators for supply circuits, and microcontroller interfacing. Programmed TI TMS320F28335 for real-time data acquisition, ADC conversion, and trying LED output display.
